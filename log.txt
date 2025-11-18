@@ -1,3 +1,4 @@
+c37b792 Task 2.3: Inline frmt and add usd()
 501dbcf Task 2.2: Extract getVolumeCredits and refactor volume credit calcuaation.
 b35e16b Task 2.1: Extract getAmount and refactor amount calculation
 31667f0 Task 1.2: Update log.txt
